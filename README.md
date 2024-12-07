@@ -1,1 +1,1 @@
-# placement-predictor-mini-projecr
+# placement-predictor-mini-project
